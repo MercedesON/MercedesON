@@ -4,7 +4,7 @@ An amateur fullstack developer from Perú.
 
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning Python.
-- 👯 I also participated in the completion of the Eterno Reservations App.
+- 👯 I also participated in the creation of the Hotel Eterno web application.
 - 💬 Ask me about Javascript, React, Express, MongoDB, NodeJs and others!
 - 📫 How to reach me: mercedes.o.n.08@gmail.com
 - ⚡ Fun fact: In my free time I like to draw and cook.
