@@ -10,6 +10,8 @@
 - 🤝 And my own **Video Games application.**
 
 - 💬 Ask me about **Javascript, React, Express, MongoDB, NodeJs and others!**
+  
+- 📫 How to reach me **mercedes.o.n.08@gmail.com**
 
 - ⚡ Fun fact: **In my free time I like to draw and cook.**
 
