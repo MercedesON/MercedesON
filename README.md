@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **working on my portfolio.**
 
-- 🌱 I’m currently learning **learning Python.**
+- 🌱 I’m currently **learning Python.**
 
 - 👯 I also participated in [the creation of the Hotel Eterno web application.](https://hotel-reservation-14qq.vercel.app/)
 
