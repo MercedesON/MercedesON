@@ -13,7 +13,7 @@
   
 - 📫 How to reach me **mercedes.o.n.08@gmail.com**
 
-- ⚡ Fun fact: **In my free time I like to draw and cook.**
+- ⚡ Fun fact: **In my free time I like to cook and enjoy nature.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
